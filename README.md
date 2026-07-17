@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hanoak/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/_hanoak"><img height="28" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/~hanoak"><img height="28" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
   <a href="https://medium.com/@hanoak"><img height="28" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://www.youtube.com/@codewithhanoak"><img height="28" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.udemy.com/user/hanoak-suchethan"><img height="28" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" /></a>
