@@ -26,7 +26,25 @@ I'm a backend-focused product engineer who takes complete ownership of the work 
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### [@hanoak/unsplash-mcp-server](https://www.npmjs.com/package/@hanoak/unsplash-mcp-server)
+
+A production-ready Model Context Protocol (MCP) server that gives AI assistants tools to search and fetch Unsplash photos.
+
+- 🧩 &nbsp;21 tools across photos, search, users, collections, topics & stats
+- 📝 &nbsp;Unsplash-guideline compliance built in — ready-to-use attribution & download tracking
+- ⚡ &nbsp;Token-efficient output — compact URLs + metadata, never base64 image blobs
+- 🛡️ &nbsp;Access-key redaction, SSRF guard, content filtering & prompt-injection guidance
+- 🔌 &nbsp;Works with Claude Desktop, Claude Code, Cursor, VS Code & Windsurf — zero-install via `npx`
+
+<p>
+  <a href="https://www.npmjs.com/package/@hanoak/unsplash-mcp-server"><img src="https://img.shields.io/npm/v/@hanoak/unsplash-mcp-server?style=flat&logo=npm&color=CB3837" /></a>
+  <a href="https://www.npmjs.com/package/@hanoak/unsplash-mcp-server"><img src="https://img.shields.io/npm/l/@hanoak/unsplash-mcp-server?style=flat&color=blue" /></a>
+  <a href="https://www.npmjs.com/package/@hanoak/unsplash-mcp-server"><img src="https://img.shields.io/node/v/@hanoak/unsplash-mcp-server?style=flat&logo=node.js&color=339933" /></a>
+</p>
+
+<sub><i>Unofficial — not affiliated with, endorsed by, or sponsored by Unsplash.</i></sub>
 
 ### [contentstack-webhook-verify](https://www.npmjs.com/package/contentstack-webhook-verify)
 
