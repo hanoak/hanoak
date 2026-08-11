@@ -46,6 +46,24 @@ A production-ready Model Context Protocol (MCP) server that gives AI assistants 
 
 <sub><i>Unofficial — not affiliated with, endorsed by, or sponsored by Unsplash.</i></sub>
 
+### [@hanoak/pexels-mcp-server](https://www.npmjs.com/package/@hanoak/pexels-mcp-server)
+
+A production-ready Model Context Protocol (MCP) server that gives AI assistants tools to search and access Pexels photos, videos, and collections.
+
+- 🧩 &nbsp;9 tools covering all documented Pexels API endpoints (photos, videos, collections)
+- 🛡️ &nbsp;License-aware design with built-in courtesy credits & compliance guidance
+- ⚡ &nbsp;Token-efficient output — real image/video URLs with multiple pre-sized renditions
+- 🔁 &nbsp;Robust error handling with retries, backoff & rate-limit management
+- 🔌 &nbsp;Works with Claude Desktop, Claude Code, Cursor, VS Code & Windsurf — zero-install via `npx`
+
+<p>
+  <a href="https://www.npmjs.com/package/@hanoak/pexels-mcp-server"><img src="https://img.shields.io/npm/v/@hanoak/pexels-mcp-server?style=flat&logo=npm&color=CB3837" /></a>
+  <a href="https://www.npmjs.com/package/@hanoak/pexels-mcp-server"><img src="https://img.shields.io/npm/l/@hanoak/pexels-mcp-server?style=flat&color=blue" /></a>
+  <a href="https://www.npmjs.com/package/@hanoak/pexels-mcp-server"><img src="https://img.shields.io/node/v/@hanoak/pexels-mcp-server?style=flat&logo=node.js&color=339933" /></a>
+</p>
+
+<sub><i>Unofficial — not affiliated with, endorsed by, or sponsored by Pexels.</i></sub>
+
 ### [contentstack-webhook-verify](https://www.npmjs.com/package/contentstack-webhook-verify)
 
 A zero-dependency npm utility for authenticating incoming webhook requests.
