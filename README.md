@@ -28,73 +28,46 @@ I'm a backend-focused product engineer who takes complete ownership of the work 
 
 ## 🚀 Featured Projects
 
-### [@hanoak/unsplash-mcp-server](https://www.npmjs.com/package/@hanoak/unsplash-mcp-server)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A production-ready Model Context Protocol (MCP) server that gives AI assistants tools to search and fetch Unsplash photos.
+**[@hanoak/unsplash-mcp-server](https://www.npmjs.com/package/@hanoak/unsplash-mcp-server)**
+21 tools for Unsplash photo search, collections & stats — built for AI assistants.
 
-- 🧩 &nbsp;21 tools across photos, search, users, collections, topics & stats
-- 📝 &nbsp;Unsplash-guideline compliance built in — ready-to-use attribution & download tracking
-- ⚡ &nbsp;Token-efficient output — compact URLs + metadata, never base64 image blobs
-- 🛡️ &nbsp;Access-key redaction, SSRF guard, content filtering & prompt-injection guidance
-- 🔌 &nbsp;Works with Claude Desktop, Claude Code, Cursor, VS Code & Windsurf — zero-install via `npx`
+<a href="https://www.npmjs.com/package/@hanoak/unsplash-mcp-server"><img src="https://img.shields.io/npm/v/@hanoak/unsplash-mcp-server?style=flat&logo=npm&color=CB3837" /></a> <a href="https://www.npmjs.com/package/@hanoak/unsplash-mcp-server"><img src="https://img.shields.io/npm/l/@hanoak/unsplash-mcp-server?style=flat&color=blue" /></a> <a href="https://www.npmjs.com/package/@hanoak/unsplash-mcp-server"><img src="https://img.shields.io/node/v/@hanoak/unsplash-mcp-server?style=flat&logo=node.js&color=339933" /></a>
 
-<p>
-  <a href="https://www.npmjs.com/package/@hanoak/unsplash-mcp-server"><img src="https://img.shields.io/npm/v/@hanoak/unsplash-mcp-server?style=flat&logo=npm&color=CB3837" /></a>
-  <a href="https://www.npmjs.com/package/@hanoak/unsplash-mcp-server"><img src="https://img.shields.io/npm/l/@hanoak/unsplash-mcp-server?style=flat&color=blue" /></a>
-  <a href="https://www.npmjs.com/package/@hanoak/unsplash-mcp-server"><img src="https://img.shields.io/node/v/@hanoak/unsplash-mcp-server?style=flat&logo=node.js&color=339933" /></a>
-</p>
+</td>
+<td width="50%" valign="top">
 
-<sub><i>Unofficial — not affiliated with, endorsed by, or sponsored by Unsplash.</i></sub>
+**[@hanoak/pexels-mcp-server](https://www.npmjs.com/package/@hanoak/pexels-mcp-server)**
+9 tools for Pexels photos, videos & collections — built for AI assistants.
 
-### [@hanoak/pexels-mcp-server](https://www.npmjs.com/package/@hanoak/pexels-mcp-server)
+<a href="https://www.npmjs.com/package/@hanoak/pexels-mcp-server"><img src="https://img.shields.io/npm/v/@hanoak/pexels-mcp-server?style=flat&logo=npm&color=CB3837" /></a> <a href="https://www.npmjs.com/package/@hanoak/pexels-mcp-server"><img src="https://img.shields.io/npm/l/@hanoak/pexels-mcp-server?style=flat&color=blue" /></a> <a href="https://www.npmjs.com/package/@hanoak/pexels-mcp-server"><img src="https://img.shields.io/node/v/@hanoak/pexels-mcp-server?style=flat&logo=node.js&color=339933" /></a>
 
-A production-ready Model Context Protocol (MCP) server that gives AI assistants tools to search and access Pexels photos, videos, and collections.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- 🧩 &nbsp;9 tools covering all documented Pexels API endpoints (photos, videos, collections)
-- 🛡️ &nbsp;License-aware design with built-in courtesy credits & compliance guidance
-- ⚡ &nbsp;Token-efficient output — real image/video URLs with multiple pre-sized renditions
-- 🔁 &nbsp;Robust error handling with retries, backoff & rate-limit management
-- 🔌 &nbsp;Works with Claude Desktop, Claude Code, Cursor, VS Code & Windsurf — zero-install via `npx`
+**[@hanoak/pixabay-mcp-server](https://www.npmjs.com/package/@hanoak/pixabay-mcp-server)**
+4 tools for royalty-free Pixabay images & videos — built for AI assistants.
 
-<p>
-  <a href="https://www.npmjs.com/package/@hanoak/pexels-mcp-server"><img src="https://img.shields.io/npm/v/@hanoak/pexels-mcp-server?style=flat&logo=npm&color=CB3837" /></a>
-  <a href="https://www.npmjs.com/package/@hanoak/pexels-mcp-server"><img src="https://img.shields.io/npm/l/@hanoak/pexels-mcp-server?style=flat&color=blue" /></a>
-  <a href="https://www.npmjs.com/package/@hanoak/pexels-mcp-server"><img src="https://img.shields.io/node/v/@hanoak/pexels-mcp-server?style=flat&logo=node.js&color=339933" /></a>
-</p>
+<a href="https://www.npmjs.com/package/@hanoak/pixabay-mcp-server"><img src="https://img.shields.io/npm/v/@hanoak/pixabay-mcp-server?style=flat&logo=npm&color=CB3837" /></a> <a href="https://www.npmjs.com/package/@hanoak/pixabay-mcp-server"><img src="https://img.shields.io/npm/l/@hanoak/pixabay-mcp-server?style=flat&color=blue" /></a> <a href="https://www.npmjs.com/package/@hanoak/pixabay-mcp-server"><img src="https://img.shields.io/node/v/@hanoak/pixabay-mcp-server?style=flat&logo=node.js&color=339933" /></a>
 
-<sub><i>Unofficial — not affiliated with, endorsed by, or sponsored by Pexels.</i></sub>
+</td>
+<td width="50%" valign="top">
 
-### [@hanoak/pixabay-mcp-server](https://www.npmjs.com/package/@hanoak/pixabay-mcp-server)
+**[contentstack-webhook-verify](https://www.npmjs.com/package/contentstack-webhook-verify)**
+Zero-dependency webhook signature verification, replay-attack prevention & multi-region support.
 
-A production-ready Model Context Protocol (MCP) server that gives AI assistants tools to search and fetch royalty-free Pixabay images and videos.
+<a href="https://www.npmjs.com/package/contentstack-webhook-verify"><img src="https://img.shields.io/npm/v/contentstack-webhook-verify?style=flat&logo=npm&color=CB3837" /></a> <a href="https://www.npmjs.com/package/contentstack-webhook-verify"><img src="https://img.shields.io/npm/dt/contentstack-webhook-verify?style=flat&logo=npm&color=CB3837" /></a>
 
-- 🧩 &nbsp;4 tools covering Pixabay's full API surface — image & video search, plus get-by-id with every size tier
-- 🛡️ &nbsp;Compliance-aware by design — mandatory 24h response caching, `safesearch` on by default, and ready-to-use courtesy attribution on every result
-- ⚡ &nbsp;Token-efficient output — compact URLs + metadata, vanity metrics (views/downloads/likes) dropped
-- 🔁 &nbsp;Robust error handling with retries, backoff & rate-limit-aware logging
-- 🔌 &nbsp;Works with Claude Desktop, Claude Code, Cursor, VS Code & Windsurf — zero-install via `npx`
+</td>
+</tr>
+</table>
 
-<p>
-  <a href="https://www.npmjs.com/package/@hanoak/pixabay-mcp-server"><img src="https://img.shields.io/npm/v/@hanoak/pixabay-mcp-server?style=flat&logo=npm&color=CB3837" /></a>
-  <a href="https://www.npmjs.com/package/@hanoak/pixabay-mcp-server"><img src="https://img.shields.io/npm/l/@hanoak/pixabay-mcp-server?style=flat&color=blue" /></a>
-  <a href="https://www.npmjs.com/package/@hanoak/pixabay-mcp-server"><img src="https://img.shields.io/node/v/@hanoak/pixabay-mcp-server?style=flat&logo=node.js&color=339933" /></a>
-</p>
-
-<sub><i>Unofficial — not affiliated with, endorsed by, or sponsored by Pixabay.</i></sub>
-
-### [contentstack-webhook-verify](https://www.npmjs.com/package/contentstack-webhook-verify)
-
-A zero-dependency npm utility for authenticating incoming webhook requests.
-
-- 🔐 &nbsp;Cryptographic signature verification
-- 🛡️ &nbsp;Replay-attack prevention
-- 🌍 &nbsp;Multi-region support
-- 📦 &nbsp;Zero runtime dependencies
-
-<p>
-  <a href="https://www.npmjs.com/package/contentstack-webhook-verify"><img src="https://img.shields.io/npm/v/contentstack-webhook-verify?style=flat&logo=npm&color=CB3837" /></a>
-  <a href="https://www.npmjs.com/package/contentstack-webhook-verify"><img src="https://img.shields.io/npm/dt/contentstack-webhook-verify?style=flat&logo=npm&color=CB3837" /></a>
-</p>
+<sub><i>Unsplash, Pexels & Pixabay MCP servers are unofficial — not affiliated with, endorsed by, or sponsored by those platforms.</i></sub>
 
 ---
 
