@@ -64,6 +64,24 @@ A production-ready Model Context Protocol (MCP) server that gives AI assistants 
 
 <sub><i>Unofficial — not affiliated with, endorsed by, or sponsored by Pexels.</i></sub>
 
+### [@hanoak/pixabay-mcp-server](https://www.npmjs.com/package/@hanoak/pixabay-mcp-server)
+
+A production-ready Model Context Protocol (MCP) server that gives AI assistants tools to search and fetch royalty-free Pixabay images and videos.
+
+- 🧩 &nbsp;4 tools covering Pixabay's full API surface — image & video search, plus get-by-id with every size tier
+- 🛡️ &nbsp;Compliance-aware by design — mandatory 24h response caching, `safesearch` on by default, and ready-to-use courtesy attribution on every result
+- ⚡ &nbsp;Token-efficient output — compact URLs + metadata, vanity metrics (views/downloads/likes) dropped
+- 🔁 &nbsp;Robust error handling with retries, backoff & rate-limit-aware logging
+- 🔌 &nbsp;Works with Claude Desktop, Claude Code, Cursor, VS Code & Windsurf — zero-install via `npx`
+
+<p>
+  <a href="https://www.npmjs.com/package/@hanoak/pixabay-mcp-server"><img src="https://img.shields.io/npm/v/@hanoak/pixabay-mcp-server?style=flat&logo=npm&color=CB3837" /></a>
+  <a href="https://www.npmjs.com/package/@hanoak/pixabay-mcp-server"><img src="https://img.shields.io/npm/l/@hanoak/pixabay-mcp-server?style=flat&color=blue" /></a>
+  <a href="https://www.npmjs.com/package/@hanoak/pixabay-mcp-server"><img src="https://img.shields.io/node/v/@hanoak/pixabay-mcp-server?style=flat&logo=node.js&color=339933" /></a>
+</p>
+
+<sub><i>Unofficial — not affiliated with, endorsed by, or sponsored by Pixabay.</i></sub>
+
 ### [contentstack-webhook-verify](https://www.npmjs.com/package/contentstack-webhook-verify)
 
 A zero-dependency npm utility for authenticating incoming webhook requests.
