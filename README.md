@@ -65,9 +65,19 @@ Zero-dependency webhook signature verification, replay-attack prevention & multi
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[@hanoak/pixabay-sdk](https://www.npmjs.com/package/@hanoak/pixabay-sdk)**
+Unofficial TypeScript SDK for the Pixabay API — search & fetch royalty-free images and videos.
+
+<a href="https://www.npmjs.com/package/@hanoak/pixabay-sdk"><img src="https://img.shields.io/npm/v/@hanoak/pixabay-sdk?style=flat&logo=npm&color=CB3837" /></a> <a href="https://www.npmjs.com/package/@hanoak/pixabay-sdk"><img src="https://img.shields.io/npm/l/@hanoak/pixabay-sdk?style=flat&color=blue" /></a> <a href="https://github.com/hanoak/pixabay-sdk"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
 </table>
 
-<sub><i>Unsplash, Pexels & Pixabay MCP servers are unofficial — not affiliated with, endorsed by, or sponsored by those platforms.</i></sub>
+<sub><i>Unsplash, Pexels & Pixabay MCP servers, and the Pixabay SDK, are unofficial — not affiliated with, endorsed by, or sponsored by those platforms.</i></sub>
 
 ---
 
